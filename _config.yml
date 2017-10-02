@@ -10,7 +10,7 @@ permalink:        pretty
 # Setup
 title:            Brian Kim
 tagline:          'Aspiring programmer'
-description:      '<code> while(!succeed) try(); </code>'
+description:      'while(!succeed) try();'
 url:              http://briank621.github.io
 baseurl:          /
 
